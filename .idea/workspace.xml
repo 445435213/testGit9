@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652765228137</updated>
-      <workItem from="1652765230111" duration="1717000" />
+      <workItem from="1652765230111" duration="2046000" />
     </task>
     <task id="LOCAL-00001" summary="添加一个文件">
       <created>1652765318693</created>
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652776129175</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加一行3333333333">
+      <created>1652776371247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652776371247</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,41 +88,42 @@
     <MESSAGE value="添加一个文件" />
     <MESSAGE value="添加一个文件1" />
     <MESSAGE value="添加一个文件1999999" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加一个文件1999999" />
+    <MESSAGE value="添加一行3333333333" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加一行3333333333" />
   </component>
   <component name="WindowStateProjectService">
     <state x="394" y="189" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652765260448">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="394" y="189" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1652765260448" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1652776127811">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1652776369913">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1652776127811" />
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1652776369913" />
     <state x="421" y="125" key="FileChooserDialogImpl" timestamp="1652765736935">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="421" y="125" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1652765736935" />
-    <state x="58" y="124" key="MergeDialog" timestamp="1652776224908">
+    <state x="58" y="124" key="MergeDialog" timestamp="1652776411616">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="58" y="124" key="MergeDialog/0.0.1280.760@0.0.1280.760" timestamp="1652776224908" />
-    <state x="333" y="196" key="MultipleFileMergeDialog" timestamp="1652776224923">
+    <state x="58" y="124" key="MergeDialog/0.0.1280.760@0.0.1280.760" timestamp="1652776411616" />
+    <state x="333" y="196" key="MultipleFileMergeDialog" timestamp="1652776411628">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="333" y="196" key="MultipleFileMergeDialog/0.0.1280.760@0.0.1280.760" timestamp="1652776224923" />
+    <state x="333" y="196" key="MultipleFileMergeDialog/0.0.1280.760@0.0.1280.760" timestamp="1652776411628" />
     <state x="144" y="26" key="SettingsEditor" timestamp="1652765370975">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="144" y="26" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1652765370975" />
-    <state x="233" y="105" key="Vcs.Push.Dialog.v2" timestamp="1652776253444">
+    <state x="233" y="105" key="Vcs.Push.Dialog.v2" timestamp="1652776438466">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="105" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1652776253444" />
-    <state x="353" y="183" key="git4idea.merge.GitPullDialog" timestamp="1652776287889">
+    <state x="233" y="105" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1652776438466" />
+    <state x="353" y="183" key="git4idea.merge.GitPullDialog" timestamp="1652776658553">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="353" y="183" key="git4idea.merge.GitPullDialog/0.0.1280.760@0.0.1280.760" timestamp="1652776287889" />
+    <state x="353" y="183" key="git4idea.merge.GitPullDialog/0.0.1280.760@0.0.1280.760" timestamp="1652776658553" />
     <state x="6" y="88" key="new project wizard" timestamp="1652765791473">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
